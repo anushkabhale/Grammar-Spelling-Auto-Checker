@@ -1,0 +1,17 @@
+✅ Run Your Streamlit App
+Open Command Prompt / PowerShell
+
+Go to your project folder:
+
+bash
+Copy
+Edit
+cd "C:\Users\anush\OneDrive\Desktop\projects"
+Run the app:
+
+bash
+Copy
+Edit
+python -m streamlit run gsc_app.py
+Open browser if not auto-opened:
+Go to http://localhost:8501
